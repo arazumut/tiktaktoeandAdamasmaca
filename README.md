@@ -1,1 +1,1 @@
-<h1>tik tak toe oyunu</h1>
+<h1>tik tak toe ve adam asmaca oyunu</h1>
